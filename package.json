@@ -11,7 +11,8 @@
     "dependencies": {
         "body-parser": "~1.18.3",
         "express": "^4.16.3",
-        "http": "0.0.0"
+        "http": "0.0.0",
+        "mongoose": "^5.1.1"
     },
     "devDependencies": {
         "jslint": "^0.12.0"
